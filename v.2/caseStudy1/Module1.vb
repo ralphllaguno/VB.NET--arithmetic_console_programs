@@ -172,6 +172,30 @@
                     Console.WriteLine()
                     Console.WriteLine("Triangle area = {1:0.00} unit/s  ", (input * input2) / 2)
                     Console.WriteLine()
+
+                Case 15
+                    Console.Write("Enter the total amount of gasoline 1: ")
+                    While Not Double.TryParse(Console.ReadLine(), input)
+                        Console.Write("Invalid input! Try again: ")
+                    End While
+                    Console.Write("Liters of gasoline 1 purchased: ")
+                    While Not Integer.TryParse(Console.ReadLine(), inputInt1)
+                        Console.Write("Invalid input! Try again: ")
+                    End While
+
+                    Console.Write("Enter the total amount of gasoline 2: ")
+                    While Not Double.TryParse(Console.ReadLine(), input2)
+                        Console.Write("Invalid input! Try again: ")
+                    End While
+                    Console.Write("Liters of gasoline 2 purchased: ")
+                    While Not Integer.TryParse(Console.ReadLine(), inputInt2)
+                        Console.Write("Invalid input! Try again: ")
+                    End While
+
+                    Console.WriteLine()
+                    Console.WriteLine("Gasoline 1 price per liter is: {0} ", input / inputInt1)
+                    Console.WriteLine("Gasoline 2 price per liter is: {0} ", input2 / inputInt2)
+                    Console.WriteLine()
             End Select
 
             'Exiting

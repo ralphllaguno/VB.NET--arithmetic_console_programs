@@ -8,3 +8,13 @@ c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.vbpro
 c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.exe
 c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.xml
 c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\bin\Debug\caseStudy1.exe.config
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\obj\Debug\caseStudy1.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\obj\Debug\caseStudy1.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\obj\Debug\caseStudy1.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\bin\Debug\caseStudy1.exe
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\bin\Debug\caseStudy1.pdb
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\bin\Debug\caseStudy1.xml
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\obj\Debug\caseStudy1.vbprojResolveAssemblyReference.cache
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\obj\Debug\caseStudy1.Resources.resources
+C:\Users\otokomae ralph\Desktop\VB - caseStudy\1 - arithmetic\v.2\caseStudy1\obj\Debug\caseStudy1.vbproj.GenerateResource.Cache

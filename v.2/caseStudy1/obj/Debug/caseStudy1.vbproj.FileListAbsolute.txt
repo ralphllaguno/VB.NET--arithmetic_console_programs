@@ -1,0 +1,10 @@
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\bin\Debug\caseStudy1.exe.config
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\bin\Debug\caseStudy1.exe
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\bin\Debug\caseStudy1.pdb
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\bin\Debug\caseStudy1.xml
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.vbprojResolveAssemblyReference.cache
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.Resources.resources
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.vbproj.GenerateResource.Cache
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.exe
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.xml
+c:\users\otokomae ralph\desktop\caseStudy1\caseStudy1\obj\Debug\caseStudy1.pdb
